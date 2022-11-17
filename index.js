@@ -1,2 +1,2 @@
-let PC = 'windows';
-console.log(PC);
+let pc = 'windows';
+console.log(pc);
